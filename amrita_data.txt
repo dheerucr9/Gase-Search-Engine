@@ -1,0 +1,141 @@
+#
+Amritapuri
+Amritapuri Amrita University^https://www.amrita.edu/campus/amritapuri
+#
+Amrita
+Engineering Coimbatore Amrita University^https://www.amrita.edu/school/engineering/coimbatore
+It's My Amrita^www.amrita.edu/it/news/it’s-my-amrita
+AUMS Amrita University^https://www.amrita.edu/aums
+Amrita Facebook^https://www.facebook.com/AmritaRock
+Amrita Technology Business Incubator^www.amritatbi.com
+Engineering Bengaluru Amrita University^https://www.amrita.edu/school/engineering/bengaluru
+Amrita Institute of Medical Sciences^www.aimshospital.org/
+Amrita Vishwa Vidyapeetham^en.wikipedia.org/wiki/Amrita_Vishwa_Vidyapeetham
+Jobs at Amrita University^https://www.amrita.edu/jobs
+Bengaluru Campus Amrita University^https://www.amrita.edu/campus/bengaluru
+ICTS AUMS Amrita University^icts.amrita.ac.in/web/aums/
+School of Business Bengaluru Amrita^https://www.amrita.edu/school/business/bengaluru
+Kochi Amrita University^https://www.amrita.edu/campus/kochi
+Amrita Vishwa Vidyapeetham (Amrita University)^https://www.amrita.edu/
+Coimbatore Campus Amrita University^https://www.amrita.edu/campus/coimbatore/about
+Amritapuri Amrita University^https://www.amrita.edu/campus/amritapuri
+School of Business Coimbatore Amrita^https://www.amrita.edu/school/business/coimbatore
+Arts and Sciences Amrita^https://www.amrita.edu/school/asas/amritapuri
+Amrita Wikipedia^en.wikipedia.org/wiki/Amrita
+Infrastructure at Coimbatore Campus Amrita^https://www.amrita.edu/campus/coimbatore/infrastructure
+Amrita Coimbatore Campus^https://www.amrita.edu/campus/coimbatore
+Mysore Amrita University^https://www.amrita.edu/campus/mysore
+#
+AUMS
+AUMS Amrita University^https://www.amrita.edu/aums
+ICTS AUMS Amrita University^icts.amrita.ac.in/web/aums/
+#
+Arts
+Arts and Sciences Amrita^https://www.amrita.edu/school/asas/amritapuri
+#
+at
+Infrastructure at Coimbatore Campus Amrita^https://www.amrita.edu/campus/coimbatore/infrastructure
+Jobs at Amrita University^https://www.amrita.edu/jobs
+#
+Bengaluru
+School of Business Bengaluru Amrita^https://www.amrita.edu/school/business/bengaluru
+Bengaluru Campus Amrita University^https://www.amrita.edu/campus/bengaluru
+Engineering Bengaluru Amrita University^https://www.amrita.edu/school/engineering/bengaluru
+#
+Business
+School of Business Bengaluru Amrita^https://www.amrita.edu/school/business/bengaluru
+Amrita Technology Business Incubator^www.amritatbi.com
+School of Business Coimbatore Amrita^https://www.amrita.edu/school/business/coimbatore
+#
+Coimbatore
+Engineering Coimbatore Amrita University^https://www.amrita.edu/school/engineering/coimbatore
+Coimbatore Campus Amrita University^https://www.amrita.edu/campus/coimbatore/about
+School of Business Coimbatore Amrita^https://www.amrita.edu/school/business/coimbatore
+Infrastructure at Coimbatore Campus Amrita^https://www.amrita.edu/campus/coimbatore/infrastructure
+GPMS Coimbatore Campus^https://www.amrita.edu/campus/coimbatore/gate-pass-management-system
+Amrita Coimbatore Campus^https://www.amrita.edu/campus/coimbatore
+#
+Campus
+Coimbatore Campus Amrita University^https://www.amrita.edu/campus/coimbatore/about
+Infrastructure at Coimbatore Campus Amrita^https://www.amrita.edu/campus/coimbatore/infrastructure
+GPMS Coimbatore Campus^https://www.amrita.edu/campus/coimbatore/gate-pass-management-system
+Amrita Coimbatore Campus^https://www.amrita.edu/campus/coimbatore
+Bengaluru Campus Amrita University^https://www.amrita.edu/campus/bengaluru
+#
+Engineering
+Engineering Coimbatore Amrita University^https://www.amrita.edu/school/engineering/coimbatore
+Engineering Bengaluru Amrita University^https://www.amrita.edu/school/engineering/bengaluru
+#
+Facebook
+Amrita Facebook^https://www.facebook.com/AmritaRock
+#
+GPMS
+GPMS Coimbatore Campus^https://www.amrita.edu/campus/coimbatore/gate-pass-management-system
+#
+Institute
+Amrita Institute of Medical Sciences^www.aimshospital.org/
+#
+Incubator
+Amrita Technology Business Incubator^www.amritatbi.com
+#
+ICTS
+ICTS AUMS Amrita University^icts.amrita.ac.in/web/aums/
+#
+Infrastructure
+Infrastructure at Coimbatore Campus Amrita^https://www.amrita.edu/campus/coimbatore/infrastructure
+#
+It's
+It's My Amrita^www.amrita.edu/it/news/it’s-my-amrita
+#
+Jobs
+Jobs at Amrita University^https://www.amrita.edu/jobs
+#
+Kochi
+Kochi Amrita University^https://www.amrita.edu/campus/kochi
+#
+Mysore
+Mysore Amrita University^https://www.amrita.edu/campus/mysore
+#
+Medical
+Amrita Institute of Medical Sciences^www.aimshospital.org/
+#
+My
+It's My Amrita^www.amrita.edu/it/news/it’s-my-amrita
+#
+Sciences
+Amrita Institute of Medical Sciences^www.aimshospital.org/
+Arts and Sciences Amrita^https://www.amrita.edu/school/asas/amritapuri
+#
+School
+School of Business Bengaluru Amrita^https://www.amrita.edu/school/business/bengaluru
+School of Business Coimbatore Amrita^https://www.amrita.edu/school/business/coimbatore
+#
+Technology
+Amrita Technology Business Incubator^www.amritatbi.com
+#
+University)
+Amrita Vishwa Vidyapeetham (Amrita University)^https://www.amrita.edu/
+#
+University
+ICTS AUMS Amrita University^icts.amrita.ac.in/web/aums/
+Engineering Coimbatore Amrita University^https://www.amrita.edu/school/engineering/coimbatore
+Amritapuri Amrita University^https://www.amrita.edu/campus/amritapuri
+Coimbatore Campus Amrita University^https://www.amrita.edu/campus/coimbatore/about
+Engineering Bengaluru Amrita University^https://www.amrita.edu/school/engineering/bengaluru
+Jobs at Amrita University^https://www.amrita.edu/jobs
+AUMS Amrita University^https://www.amrita.edu/aums
+Kochi Amrita University^https://www.amrita.edu/campus/kochi
+Bengaluru Campus Amrita University^https://www.amrita.edu/campus/bengaluru
+Mysore Amrita University^https://www.amrita.edu/campus/mysore
+#
+Vishwa
+Amrita Vishwa Vidyapeetham (Amrita University)^https://www.amrita.edu/
+Amrita Vishwa Vidyapeetham^en.wikipedia.org/wiki/Amrita_Vishwa_Vidyapeetham
+#
+Vidyapeetham
+Amrita Vishwa Vidyapeetham (Amrita University)^https://www.amrita.edu/
+Amrita Vishwa Vidyapeetham^en.wikipedia.org/wiki/Amrita_Vishwa_Vidyapeetham
+#
+Wikipedia
+Amrita Wikipedia^en.wikipedia.org/wiki/Amrita
+#

@@ -1,0 +1,62 @@
+Entertainment Wikipedia^en.wikipedia.org/wiki/Entertainment
+Entertainment YouTube^https://www.youtube.com/channel/UCi-g4cjqGV7jvU8aeSuj0jQ
+Entertainment Times of India^timesofindia.indiatimes.com/entertainment
+Entertainment News and Gossip^www.eonline.com/
+Entertainment NDTV^www.ndtv.com/photos/entertainment
+Breaking News The Huffington Post^www.huffingtonpost.com/
+Huffington Post India^www.huffingtonpost.in/
+reddit internet^www.reddit.com/
+blog reddit^www.redditblog.com/
+reddit Wikipedia^en.wikipedia.org/wiki/Reddit
+reddit GitHub^https://github.com/reddit/reddit
+BuzzFeed^www.buzzfeed.com/
+BuzzFeedBlue YouTube^https://www.youtube.com/user/buzzfeedblue
+BuzzFeedVideo YouTube^https://www.youtube.com/user/BuzzFeedVideo
+BuzzFeedYellow YouTube^https://www.youtube.com/user/BuzzFeedYellow
+BuzzFeed Wikipedia^en.wikipedia.org/wiki/BuzzFeed
+BuzzFeed Twitter^https://twitter.com/buzzfeed
+BuzzFeed Facebook^https://www.facebook.com/BuzzFeed?fref=nf
+Slate magazine Wikipedia^en.wikipedia.org/wiki/Slate_(magazine)
+Slate Magazine on iTunes Apple^https://itunes.apple.com/en/app/slate-magazine/id384914589?mt=8
+Slate Facebook^https://www.facebook.com/Slate
+Slate MSN^slate.msn.com/
+Cracked Humor Site^www.cracked.com/
+Cracked online^www.cbc.ca/cracked/
+WIRED^www.wired.com/
+Wired magazine Wikipedia^en.wikipedia.org/wiki/Wired_(magazine)
+WIRED Twitter^https://twitter.com/wired
+WIRED YouTube^https://www.youtube.com/user/wired
+WIRED Facebook^https://www.facebook.com/wired
+WIRED Instagram^https://instagram.com/wired/
+Digg^digg.com/
+Digg Wikipedia^en.wikipedia.org/wiki/Digg
+Digg Facebook^https://www.facebook.com/digg
+Digg Twitter^https://twitter.com/digg
+Gawker^gawker.com/
+Gawker Media^advertising.gawker.com/
+Gawker Media^advertising.gawker.com/about/
+Gawker Media Wikipedia^en.wikipedia.org/wiki/Gawker_Media
+Gawker Media LinkedIn^https://www.linkedin.com/company/gawker-media
+The Daily Beast^www.thedailybeast.com/
+The Daily Beast Wikipedia^en.wikipedia.org/wiki/The_Daily_Beast
+The Daily Beast Twitter^https://twitter.com/thedailybeast
+The Daily Beast Facebook^https://www.facebook.com/thedailybeast
+Laughing Squid^laughingsquid.com/
+Laughing Squid Web Hosting^https://laughingsquid.us/
+Laughing Squid Twitter^https://twitter.com/laughingsquid
+Laughing Squid Wikipedia^en.wikipedia.org/wiki/Laughing_Squid
+Laughing Squid Facebook^https://www.facebook.com/laughingsquid
+Laughing Squid Help Desk^https://laughingsquid.zendesk.com/
+Laughing Squid LinkedIn^https://www.linkedin.com/company/laughing-squid
+Google Buzz Wikipedia^en.wikipedia.org/wiki/Google_Buzz
+Buzz Wikipedia^en.wikipedia.orgBuzz
+Marketing buzz Wikipedia^en.wikipedia.org/wiki/Marketing_buzz
+buzz Wiktionary^en.wiktionary.org/wiki/buzz
+Infeeds^https://www.infeeds.com/
+infeeds^www.thefreedictionary.com/infeeds
+Infeeds on Pinterest^https://www.pinterest.com/infeeds/
+Infeeds Facebook^https://www.facebook.com/infeeds
+Geek Insider Lifestyle and Tech News^www.geekinsider.com/
+Geek Insider Facebook^https://www.facebook.com/GeekInsiders
+Geek Insider LinkedIn^https://www.linkedin.com/company/geek-insider
+Geek Insider CrunchBase^https://www.crunchbase.com/organization/geek-insider

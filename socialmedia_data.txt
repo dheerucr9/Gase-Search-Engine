@@ -1,0 +1,287 @@
+#
+App
+Pheed App Review^https://www.commonsensemedia.org/app-reviews/pheed
+#
+Android
+Facebook Android Apps on Google Play^https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en
+#
+Apps
+Facebook Android Apps on Google Play^https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en
+#
+Apple
+Pheed on iTunes Apple^https://itunes.apple.com/in/app/pheed/id459686734?mt=8
+Twitter on iTunes Apple^https://itunes.apple.com/in/app/twitter/id333903271?mt=8
+Vine on iTunes Apple^https://itunes.apple.com/in/app/vine/id592447445?mt=8
+Snapchat on iTunes Apple^https://itunes.apple.com/in/app/snapchat/id447188370?mt=8
+LinkedIn on iTunes Apple^https://itunes.apple.com/in/app/linkedin/id288429040?mt=8
+#
+across
+Share across Google^www.google.com/intl/en_in/+/learnmore/
+#
+Blog
+Flickr Blog^blog.flickr.net/
+#
+creative
+Pinterest creative ideas^https://in.pinterest.com/
+#
+Flickr
+Flickr Wikipedia^en.wikipedia.org/wiki/Flickr
+Flickr Photo Sharing^https://www.flickr.com/
+Flickr Blog^blog.flickr.net/
+Flickr Inspiring photography^https://mobile.yahoo.com/flickr
+#
+Facebook
+Tumblr Facebook^https://www.facebook.com/tumblr
+Investor Relations Facebook^investor.fb.com/
+Snapchat Facebook^https://www.facebook.com/snapchat
+Facebook Wikipedia^en.wikipedia.org/wiki/Facebook
+Facebook Android Apps on Google Play^https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en
+Facebook Twitter^https://twitter.com/facebook
+Instagram Facebook^https://www.facebook.com/instagram
+Googleplus Facebook^https://www.facebook.com/gogleplus
+Facebook Newsroom^newsroom.fb.com/
+Facebook Mashable^mashable.com/category/facebook/
+Facebook Stock Price News Facebook Inc^quotes.wsj.com/FB
+Welcome to Facebook^https://www.facebook.com/
+Twitter Facebook^https://www.facebook.com/twitterinc
+Facebook Inc^https://www.facebook.com/facebook?rf=106491156053682
+YouTube Facebook^https://www.facebook.com/youtube
+#
+Google
+YouTube Google plus^https://plus.google.com/+youtube
+Share across Google^www.google.com/intl/en_in/+/learnmore/
+Google plus YouTube^https://www.youtube.com/user/googleplusupdates
+Google plus^https://plus.google.com/
+Google plus Wikipedia^en.wikipedia.org/wiki/Google%2B
+Facebook Android Apps on Google Play^https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en
+#
+Googleplus
+Googleplus Facebook^https://www.facebook.com/gogleplus
+#
+Inspiring
+Flickr Inspiring photography^https://mobile.yahoo.com/flickr
+#
+Instagram
+Instagram Twitter^https://twitter.com/instagram
+Instagram^https://instagram.com/
+Instagram Web Viewer^ink361.com/
+Instagram Facebook^https://www.facebook.com/instagram
+Log in Instagram Iconosquare^iconosquare.com/viewer.php
+Instagram Wikipedia^en.wikipedia.org/wiki/Instagram
+#
+in
+Log in Instagram Iconosquare^iconosquare.com/viewer.php
+#
+India
+LinkedIn India^https://in.linkedin.com/
+#
+ideas
+Pinterest creative ideas^https://in.pinterest.com/
+#
+iTunes
+Pheed on iTunes Apple^https://itunes.apple.com/in/app/pheed/id459686734?mt=8
+Twitter on iTunes Apple^https://itunes.apple.com/in/app/twitter/id333903271?mt=8
+Vine on iTunes Apple^https://itunes.apple.com/in/app/vine/id592447445?mt=8
+Snapchat on iTunes Apple^https://itunes.apple.com/in/app/snapchat/id447188370?mt=8
+LinkedIn on iTunes Apple^https://itunes.apple.com/in/app/linkedin/id288429040?mt=8
+#
+In
+Sign In LinkedIn^https://www.linkedin.com/uas/login
+#
+Iconosquare
+Log in Instagram Iconosquare^iconosquare.com/viewer.php
+#
+Investor
+Investor Relations Facebook^investor.fb.com/
+#
+Inc
+Facebook Stock Price News Facebook Inc^quotes.wsj.com/FB
+Facebook Inc^https://www.facebook.com/facebook?rf=106491156053682
+#
+List
+List of social networking websites Wikipedia^en.wikipedia.org/wiki/List_of_social_networking_websites
+#
+Log
+Log in Instagram Iconosquare^iconosquare.com/viewer.php
+#
+LinkedIn
+Sign In LinkedIn^https://www.linkedin.com/uas/login
+LinkedIn Wikipedia^en.wikipedia.org/wiki/LinkedIn
+LinkedIn India^https://in.linkedin.com/
+LinkedIn YouTube^https://www.youtube.com/user/LinkedIn
+Sign Up LinkedIn^https://www.linkedin.com/skills/skill/Foss
+LinkedIn on iTunes Apple^https://itunes.apple.com/in/app/linkedin/id288429040?mt=8
+#
+Mashable
+Social Networking Mashable^mashable.com/category/social-networking/
+Facebook Mashable^mashable.com/category/facebook/
+#
+Newsroom
+Facebook Newsroom^newsroom.fb.com/
+#
+Networking
+Social Networking Mashable^mashable.com/category/social-networking/
+#
+networking
+Social networking service Wikipedia^en.wikipedia.org/wiki/Social_networking_service
+List of social networking websites Wikipedia^en.wikipedia.org/wiki/List_of_social_networking_websites
+#
+network
+Social network Wikipedia^en.wikipedia.org/wiki/Social_network
+#
+News
+Facebook Stock Price News Facebook Inc^quotes.wsj.com/FB
+#
+on
+Twitter on iTunes Apple^https://itunes.apple.com/in/app/twitter/id333903271?mt=8
+Pheed on iTunes Apple^https://itunes.apple.com/in/app/pheed/id459686734?mt=8
+Vine on iTunes Apple^https://itunes.apple.com/in/app/vine/id592447445?mt=8
+Snapchat on iTunes Apple^https://itunes.apple.com/in/app/snapchat/id447188370?mt=8
+LinkedIn on iTunes Apple^https://itunes.apple.com/in/app/linkedin/id288429040?mt=8
+Facebook Android Apps on Google Play^https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en
+Pinterest on Pinterest^https://www.pinterest.com/pinterest/
+#
+Online
+Snapchat Online^snapchat.am/
+#
+Play
+Facebook Android Apps on Google Play^https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en
+#
+Pinterest
+Pinterest Wikipedia^en.wikipedia.org/wiki/Pinterest
+Pinterest creative ideas^https://in.pinterest.com/
+Pinterest Twitter^https://twitter.com/pinterest
+Pinterest on Pinterest^https://www.pinterest.com/pinterest/
+#
+Photo
+Flickr Photo Sharing^https://www.flickr.com/
+#
+Price
+Facebook Stock Price News Facebook Inc^quotes.wsj.com/FB
+#
+Pheed
+Pheed Wikipedia^en.wikipedia.org/wiki/Pheed
+Pheed on iTunes Apple^https://itunes.apple.com/in/app/pheed/id459686734?mt=8
+Pheed App Review^https://www.commonsensemedia.org/app-reviews/pheed
+Pheed^https://www.pheed.com/
+#
+plus
+YouTube Google plus^https://plus.google.com/+youtube
+Google plus YouTube^https://www.youtube.com/user/googleplusupdates
+Google plus^https://plus.google.com/
+Google plus Wikipedia^en.wikipedia.org/wiki/Google%2B
+#
+photography
+Flickr Inspiring photography^https://mobile.yahoo.com/flickr
+#
+reddit
+reddit Wikipedia^en.wikipedia.org/wiki/Reddit
+reddit^www.reddit.com/
+#
+Review
+Pheed App Review^https://www.commonsensemedia.org/app-reviews/pheed
+#
+Relations
+Investor Relations Facebook^investor.fb.com/
+#
+Sharing
+Flickr Photo Sharing^https://www.flickr.com/
+#
+service
+Social networking service Wikipedia^en.wikipedia.org/wiki/Social_networking_service
+Vine service Wikipedia^en.wikipedia.org/wiki/Vine_(service)
+#
+Social
+Social networking service Wikipedia^en.wikipedia.org/wiki/Social_networking_service
+Social Networking Mashable^mashable.com/category/social-networking/
+Social network Wikipedia^en.wikipedia.org/wiki/Social_network
+#
+Share
+Share across Google^www.google.com/intl/en_in/+/learnmore/
+#
+Snapchat
+Snapchat Online^snapchat.am/
+Snapchat Wikipedia^en.wikipedia.org/wiki/Snapchat
+Snapchat Facebook^https://www.facebook.com/snapchat
+Snapchat^https://www.snapchat.com/
+Snapchat on iTunes Apple^https://itunes.apple.com/in/app/snapchat/id447188370?mt=8
+#
+Sign
+Sign Up LinkedIn^https://www.linkedin.com/skills/skill/Foss
+Tumblr Sign up^https://www.tumblr.com/
+Sign In LinkedIn^https://www.linkedin.com/uas/login
+#
+social
+List of social networking websites Wikipedia^en.wikipedia.org/wiki/List_of_social_networking_websites
+#
+Stock
+Facebook Stock Price News Facebook Inc^quotes.wsj.com/FB
+#
+Tumblr
+Tumblr Facebook^https://www.facebook.com/tumblr
+Tumblr Sign up^https://www.tumblr.com/
+Tumblr Wikipedia^en.wikipedia.org/wiki/Tumblr
+Tumblr Twitter^https://twitter.com/tumblr
+#
+to
+Welcome to Facebook^https://www.facebook.com/
+#
+Twitter
+Instagram Twitter^https://twitter.com/instagram
+Twitter on iTunes Apple^https://itunes.apple.com/in/app/twitter/id333903271?mt=8
+Twitter Wikipedia^en.wikipedia.org/wiki/Twitter
+Vine Twitter^https://twitter.com/vine
+Twitter^https://twitter.com/twitter
+Tumblr Twitter^https://twitter.com/tumblr
+Facebook Twitter^https://twitter.com/facebook
+Pinterest Twitter^https://twitter.com/pinterest
+Twitter Facebook^https://www.facebook.com/twitterinc
+#
+Up
+Sign Up LinkedIn^https://www.linkedin.com/skills/skill/Foss
+#
+up
+Tumblr Sign up^https://www.tumblr.com/
+#
+Viewer
+Instagram Web Viewer^ink361.com/
+#
+Vine
+Vine Twitter^https://twitter.com/vine
+Vine service Wikipedia^en.wikipedia.org/wiki/Vine_(service)
+Vine^https://vine.co/
+Vine on iTunes Apple^https://itunes.apple.com/in/app/vine/id592447445?mt=8
+#
+Web
+Instagram Web Viewer^ink361.com/
+#
+Welcome
+Welcome to Facebook^https://www.facebook.com/
+#
+Wikipedia
+Flickr Wikipedia^en.wikipedia.org/wiki/Flickr
+Pheed Wikipedia^en.wikipedia.org/wiki/Pheed
+reddit Wikipedia^en.wikipedia.org/wiki/Reddit
+Snapchat Wikipedia^en.wikipedia.org/wiki/Snapchat
+LinkedIn Wikipedia^en.wikipedia.org/wiki/LinkedIn
+Facebook Wikipedia^en.wikipedia.org/wiki/Facebook
+List of social networking websites Wikipedia^en.wikipedia.org/wiki/List_of_social_networking_websites
+Pinterest Wikipedia^en.wikipedia.org/wiki/Pinterest
+Twitter Wikipedia^en.wikipedia.org/wiki/Twitter
+Vine service Wikipedia^en.wikipedia.org/wiki/Vine_(service)
+Social network Wikipedia^en.wikipedia.org/wiki/Social_network
+Google plus Wikipedia^en.wikipedia.org/wiki/Google%2B
+Social networking service Wikipedia^en.wikipedia.org/wiki/Social_networking_service
+Tumblr Wikipedia^en.wikipedia.org/wiki/Tumblr
+Instagram Wikipedia^en.wikipedia.org/wiki/Instagram
+#
+websites
+List of social networking websites Wikipedia^en.wikipedia.org/wiki/List_of_social_networking_websites
+#
+YouTube
+LinkedIn YouTube^https://www.youtube.com/user/LinkedIn
+YouTube Google plus^https://plus.google.com/+youtube
+YouTube^https://www.youtube.com/?gl=IN
+YouTube Facebook^https://www.facebook.com/youtube
+Google plus YouTube^https://www.youtube.com/user/googleplusupdates
+#

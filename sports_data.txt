@@ -1,0 +1,359 @@
+#
+academy
+Sania Mirza Tennis Academy^www.saniamirzatennisacademy.com/
+#
+about
+About Sachin Tendulkar^www.indiatimes.com/
+#
+anand
+Viswanathan Anand Twitter^https://twitter.com/vishy64theking
+Viswanathan Anand Wikipedia^en.wikipedia.org/wiki/Viswanathan_Anand
+Vishwanathan Anand Facebook^https://www.facebook.com/VishyAnand
+#
+bbc
+BBC Sport^www.bbc.com/sport
+#
+biography
+Michael Phelps Biography^www.biography.com/people/michael-phelps-345192
+#
+cricbuzz
+CricBuzz^www.cricbuzz.com/
+#
+cristiano
+Cristiano Ronaldo Wikipedia^en.wikipedia.org/wiki/Cristiano_Ronaldo
+Cristiano Ronaldo Facebook^https://www.facebook.com/Cristiano
+Cristiano Ronaldo^www.cristianoronaldo.com/
+#
+cricket
+Yahoo Cricket^https://cricket.yahoo.com/
+Cricket Wikipedia^en.wikipedia.org/wiki/Cricket
+Cricket Rediff^www.rediff.com/cricket
+International Cricket Council^www.icc-cricket.com/
+#
+cricinfo
+VVS Laxman ESPN Cricinfo^www.espncricinfo.com/india/content/player/30750.html
+ESPN Cricinfo^www.espncricinfo.com/
+Sourav Ganguly ESPN Cricinfo^www.espncricinfo.com/india/content/player/28779.html
+Virat Kohli ESPN Cricinfo^www.espncricinfo.com/india/content/player/253802.html
+Kapil Dev ESPN Cricinfo^www.espncricinfo.com/india/content/player/30028.html
+MS Dhoni ESPN Cricinfo^www.espncricinfo.com/india/content/player/28081.html
+Sachin Tendulkar ESPN Cricinfo^www.espncricinfo.com/india/content/player/35320.html
+Rahul Dravid ESPN Cricinfo^www.espncricinfo.com/india/content/player/28114.html
+#
+council
+International Cricket Council^www.icc-cricket.com/
+#
+dhoni
+MS Dhoni Facebook^https://www.facebook.com/CircleofCricket.MSDhoni
+Mahendra Singh Dhoni Wikipedia^en.wikipedia.org/wiki/Mahendra_Singh_Dhoni
+MS Dhoni ESPN Cricinfo^www.espncricinfo.com/india/content/player/28081.html
+#
+dev
+Kapil Dev Profile^www.cricbuzz.com/profiles/3838/KapilDev
+Kapil Dev ESPN Cricinfo^www.espncricinfo.com/india/content/player/30028.html
+Kapil Dev Wikipedia^en.wikipedia.org/wiki/Kapil_Dev
+#
+dravid
+Rahul Dravid Wikipedia^en.wikipedia.org/wiki/Rahul_Dravid
+Rahul Dravid ESPN Cricinfo^www.espncricinfo.com/india/content/player/28114.html
+#
+espn
+ESPN Wikipedia^en.wikipedia.org/wiki/ESPN
+Rahul Dravid ESPN Cricinfo^www.espncricinfo.com/india/content/player/28114.html
+ESPN^espn.go.com/
+Sourav Ganguly ESPN Cricinfo^www.espncricinfo.com/india/content/player/28779.html
+Soccer News ESPN FC^www.espnfc.us/
+ESPN Cricinfo^www.espncricinfo.com/
+Virat Kohli ESPN Cricinfo^www.espncricinfo.com/india/content/player/253802.html
+Kapil Dev ESPN Cricinfo^www.espncricinfo.com/india/content/player/30028.html
+ESPN Twitter^https://twitter.com/espn
+Sachin Tendulkar ESPN Cricinfo^www.espncricinfo.com/india/content/player/35320.html
+MS Dhoni ESPN Cricinfo^www.espncricinfo.com/india/content/player/28081.html
+VVS Laxman ESPN Cricinfo^www.espncricinfo.com/india/content/player/30750.html
+#
+federer
+Roger Federer Wikipedia^en.wikipedia.org/wiki/Roger_Federer
+Roger Federer^www.atpworldtour.com/Tennis/Players/Top-Players/Roger-Federer.aspx
+#
+fc
+Soccer News ESPN FC^www.espnfc.us/
+#
+facebook
+Yuvraj Singh Facebook^https://www.facebook.com/yuvirajsinghofficial
+Sachin Tendulkar Facebook^https://www.facebook.com/SachinTendulkar
+MS Dhoni Facebook^https://www.facebook.com/CircleofCricket.MSDhoni
+Cristiano Ronaldo Facebook^https://www.facebook.com/Cristiano
+Michael Phelps Facebook^https://www.facebook.com/michaelphelps
+Sourav Ganguly Facebook^https://www.facebook.com/SCGanguly
+Saina Nehwal Facebook^https://www.facebook.com/SainaNehwal.OGQ
+Rafa Nadal Facebook^https://www.facebook.com/Nadal
+Vishwanathan Anand Facebook^https://www.facebook.com/VishyAnand
+#
+football
+Football TOI^timesofindia.indiatimes.com › Sports
+Football^www.football365.com/
+National Football League^www.nfl.com/
+Football The Guardian^www.theguardian.com/football
+Football Sky Sports^www1.skysports.com/football/
+Football Wikipedia^en.wikipedia.org/wiki/Football
+#
+guardian
+Football The Guardian^www.theguardian.com/football
+#
+ganguly
+Sourav Ganguly Facebook^https://www.facebook.com/SCGanguly
+Sourav Ganguly ESPN Cricinfo^www.espncricinfo.com/india/content/player/28779.html
+Sourav Ganguly Times of India^timesofindia.indiatimes.com/topic/Sourav-Ganguly
+Sourav Ganguly Wikipedia^en.wikipedia.org/wiki/Sourav_Ganguly
+Sourav Ganguly^ibnlive.in.com/newstopics/sourav-ganguly.html
+#
+hockey
+The National Hockey League^www.nhl.com/
+Hockey India^hockeyindia.org/
+Hockey Sports^sports.ndtv.com/hockey
+Hockey Wikipedia^en.wikipedia.org/wiki/Hockey
+Hockey Scores^www.flashscore.com/hockey/
+#
+ibnlive
+IBNLive^ibnlive.in.com/cricketnext/
+#
+international
+International Cricket Council^www.icc-cricket.com/
+#
+india
+Hockey India^hockeyindia.org/
+Sania Mirza Times of India^timesofindia.indiatimes.com/topic/Sania-Mirza
+Sourav Ganguly Times of India^timesofindia.indiatimes.com/topic/Sourav-Ganguly
+#
+kapil
+Kapil Dev Profile^www.cricbuzz.com/profiles/3838/KapilDev
+Kapil Dev ESPN Cricinfo^www.espncricinfo.com/india/content/player/30028.html
+Kapil Dev Wikipedia^en.wikipedia.org/wiki/Kapil_Dev
+#
+kohli
+Virat Kohli Twitter^https://twitter.com/imvkohli
+Virat Kohli Wikipedia^en.wikipedia.org/wiki/Virat_Kohli
+Virat Kohli ESPN Cricinfo^www.espncricinfo.com/india/content/player/253802.html
+#
+league
+The National Hockey League^www.nhl.com/
+National Football League^www.nfl.com/
+#
+laxman
+V V S Laxman Wikipedia^en.wikipedia.org/wiki/V._V._S._Laxman
+VVS Laxman ESPN Cricinfo^www.espncricinfo.com/india/content/player/30750.html
+#
+lionel
+Lionel Messi Wikipedia^en.wikipedia.org/wiki/Lionel_Messi
+#
+messi
+Messi^www.goal.com/en/people/argentina/8012/messi
+Lionel Messi Wikipedia^en.wikipedia.org/wiki/Lionel_Messi
+#
+mahendra
+Mahendra Singh Dhoni Wikipedia^en.wikipedia.org/wiki/Mahendra_Singh_Dhoni
+#
+michael
+Michael Phelps Twitter^https://twitter.com/michaelphelps
+Michael Phelps Facebook^https://www.facebook.com/michaelphelps
+Michael Phelps Biography^www.biography.com/people/michael-phelps-345192
+#
+mirza
+Sania Mirza Tennis Academy^www.saniamirzatennisacademy.com/
+Sania Mirza Times of India^timesofindia.indiatimes.com/topic/Sania-Mirza
+Sania Mirza^https://www.facebook.com/sania.mirza
+Sania Mirza Twitter^https://twitter.com/mirzasania
+Sania Mirza Wikipedia^en.wikipedia.org/wiki/Sania_Mirza
+#
+ms
+MS Dhoni Facebook^https://www.facebook.com/CircleofCricket.MSDhoni
+MS Dhoni ESPN Cricinfo^www.espncricinfo.com/india/content/player/28081.html
+#
+news
+Soccer News ESPN FC^www.espnfc.us/
+#
+nba
+NBA on Yahoo^sports.yahoo.com/nba/
+#
+nadal
+Rafael Nadal^www.atpworldtour.com/Tennis/Players/Top-Players/Rafael-Nadal.aspx
+Rafa Nadal Facebook^https://www.facebook.com/Nadal
+Rafael Nadal Wikipedia^en.wikipedia.org/wiki/Rafael_Nadal
+Rafa Nadal Twitter^https://twitter.com/rafaelnadal
+#
+national
+The National Hockey League^www.nhl.com/
+National Football League^www.nfl.com/
+#
+nehwal
+Saina Nehwal Facebook^https://www.facebook.com/SainaNehwal.OGQ
+Saina Nehwal Twitter^https://twitter.com/nsaina
+Saina Nehwal^timesofindia.indiatimes.com/topic/Saina-Nehwal
+#
+on
+NBA on Yahoo^sports.yahoo.com/nba/
+#
+profile
+Kapil Dev Profile^www.cricbuzz.com/profiles/3838/KapilDev
+#
+phelps
+Michael Phelps Twitter^https://twitter.com/michaelphelps
+Michael Phelps Facebook^https://www.facebook.com/michaelphelps
+Michael Phelps Biography^www.biography.com/people/michael-phelps-345192
+#
+ronaldo
+Cristiano Ronaldo Wikipedia^en.wikipedia.org/wiki/Cristiano_Ronaldo
+Cristiano Ronaldo Facebook^https://www.facebook.com/Cristiano
+Cristiano Ronaldo^www.cristianoronaldo.com/
+#
+rafa
+Rafa Nadal Twitter^https://twitter.com/rafaelnadal
+Rafa Nadal Facebook^https://www.facebook.com/Nadal
+#
+rogerfederer.com
+rogerfederer.com^www.rogerfederer.com/
+#
+roger
+Roger Federer Wikipedia^en.wikipedia.org/wiki/Roger_Federer
+Roger Federer^www.atpworldtour.com/Tennis/Players/Top-Players/Roger-Federer.aspx
+#
+rediff
+Cricket Rediff^www.rediff.com/cricket
+#
+rafael
+Rafael Nadal^www.atpworldtour.com/Tennis/Players/Top-Players/Rafael-Nadal.aspx
+Rafael Nadal Wikipedia^en.wikipedia.org/wiki/Rafael_Nadal
+#
+rahul
+Rahul Dravid Wikipedia^en.wikipedia.org/wiki/Rahul_Dravid
+Rahul Dravid ESPN Cricinfo^www.espncricinfo.com/india/content/player/28114.html
+#
+soccer
+Soccer News ESPN FC^www.espnfc.us/
+#
+star
+Star sports^www.starsports.com/
+#
+sky
+Football Sky Sports^www1.skysports.com/football/
+#
+sports
+Football Sky Sports^www1.skysports.com/football/
+Star sports^www.starsports.com/
+Yahoo Sports^sports.yahoo.com/
+Hockey Sports^sports.ndtv.com/hockey
+#
+s
+V V S Laxman Wikipedia^en.wikipedia.org/wiki/V._V._S._Laxman
+#
+saina
+Saina Nehwal Facebook^https://www.facebook.com/SainaNehwal.OGQ
+Saina Nehwal Twitter^https://twitter.com/nsaina
+Saina Nehwal^timesofindia.indiatimes.com/topic/Saina-Nehwal
+#
+sania
+Sania Mirza Tennis Academy^www.saniamirzatennisacademy.com/
+Sania Mirza Times of India^timesofindia.indiatimes.com/topic/Sania-Mirza
+Sania Mirza^https://www.facebook.com/sania.mirza
+Sania Mirza Twitter^https://twitter.com/mirzasania
+Sania Mirza Wikipedia^en.wikipedia.org/wiki/Sania_Mirza
+#
+scores
+Hockey Scores^www.flashscore.com/hockey/
+#
+singh
+Yuvraj Singh Facebook^https://www.facebook.com/yuvirajsinghofficial
+Yuvraj Singh Wikipedia^en.wikipedia.org/wiki/Yuvraj_Singh
+Mahendra Singh Dhoni Wikipedia^en.wikipedia.org/wiki/Mahendra_Singh_Dhoni
+#
+sport
+BBC Sport^www.bbc.com/sport
+#
+sourav
+Sourav Ganguly Facebook^https://www.facebook.com/SCGanguly
+Sourav Ganguly ESPN Cricinfo^www.espncricinfo.com/india/content/player/28779.html
+Sourav Ganguly Times of India^timesofindia.indiatimes.com/topic/Sourav-Ganguly
+Sourav Ganguly Wikipedia^en.wikipedia.org/wiki/Sourav_Ganguly
+Sourav Ganguly^ibnlive.in.com/newstopics/sourav-ganguly.html
+#
+sachin
+Sachin Tendulkar Facebook^https://www.facebook.com/SachinTendulkar
+sachin tendulkar Twitter^https://twitter.com/sachin_rt
+Sachin Tendulkar Wikipedia^en.wikipedia.org/wiki/Sachin_Tendulkar
+About Sachin Tendulkar^www.indiatimes.com/
+Sachin Tendulkar ESPN Cricinfo^www.espncricinfo.com/india/content/player/35320.html
+#
+tendulkar
+Sachin Tendulkar Facebook^https://www.facebook.com/SachinTendulkar
+sachin tendulkar Twitter^https://twitter.com/sachin_rt
+Sachin Tendulkar Wikipedia^en.wikipedia.org/wiki/Sachin_Tendulkar
+About Sachin Tendulkar^www.indiatimes.com/
+Sachin Tendulkar ESPN Cricinfo^www.espncricinfo.com/india/content/player/35320.html
+#
+twitter
+Virat Kohli Twitter^https://twitter.com/imvkohli
+Viswanathan Anand Twitter^https://twitter.com/vishy64theking
+Saina Nehwal Twitter^https://twitter.com/nsaina
+Sania Mirza Twitter^https://twitter.com/mirzasania
+sachin tendulkar Twitter^https://twitter.com/sachin_rt
+Rafa Nadal Twitter^https://twitter.com/rafaelnadal
+Michael Phelps Twitter^https://twitter.com/michaelphelps
+ESPN Twitter^https://twitter.com/espn
+#
+toi
+Football TOI^timesofindia.indiatimes.com › Sports
+#
+tennis
+Sania Mirza Tennis Academy^www.saniamirzatennisacademy.com/
+#
+times
+Sourav Ganguly Times of India^timesofindia.indiatimes.com/topic/Sourav-Ganguly
+Sania Mirza Times of India^timesofindia.indiatimes.com/topic/Sania-Mirza
+#
+virat
+Virat Kohli Twitter^https://twitter.com/imvkohli
+Virat Kohli Wikipedia^en.wikipedia.org/wiki/Virat_Kohli
+Virat Kohli ESPN Cricinfo^www.espncricinfo.com/india/content/player/253802.html
+#
+viswanathan
+Viswanathan Anand Twitter^https://twitter.com/vishy64theking
+Viswanathan Anand Wikipedia^en.wikipedia.org/wiki/Viswanathan_Anand
+#
+vvs
+VVS Laxman ESPN Cricinfo^www.espncricinfo.com/india/content/player/30750.html
+#
+vishwanathan
+Vishwanathan Anand Facebook^https://www.facebook.com/VishyAnand
+#
+v
+V V S Laxman Wikipedia^en.wikipedia.org/wiki/V._V._S._Laxman
+#
+wikipedia
+ESPN Wikipedia^en.wikipedia.org/wiki/ESPN
+Roger Federer Wikipedia^en.wikipedia.org/wiki/Roger_Federer
+Yuvraj Singh Wikipedia^en.wikipedia.org/wiki/Yuvraj_Singh
+Kapil Dev Wikipedia^en.wikipedia.org/wiki/Kapil_Dev
+Cricket Wikipedia^en.wikipedia.org/wiki/Cricket
+V V S Laxman Wikipedia^en.wikipedia.org/wiki/V._V._S._Laxman
+Sachin Tendulkar Wikipedia^en.wikipedia.org/wiki/Sachin_Tendulkar
+Hockey Wikipedia^en.wikipedia.org/wiki/Hockey
+Viswanathan Anand Wikipedia^en.wikipedia.org/wiki/Viswanathan_Anand
+Lionel Messi Wikipedia^en.wikipedia.org/wiki/Lionel_Messi
+Sourav Ganguly Wikipedia^en.wikipedia.org/wiki/Sourav_Ganguly
+Rahul Dravid Wikipedia^en.wikipedia.org/wiki/Rahul_Dravid
+Cristiano Ronaldo Wikipedia^en.wikipedia.org/wiki/Cristiano_Ronaldo
+Mahendra Singh Dhoni Wikipedia^en.wikipedia.org/wiki/Mahendra_Singh_Dhoni
+Virat Kohli Wikipedia^en.wikipedia.org/wiki/Virat_Kohli
+Football Wikipedia^en.wikipedia.org/wiki/Football
+Rafael Nadal Wikipedia^en.wikipedia.org/wiki/Rafael_Nadal
+Sania Mirza Wikipedia^en.wikipedia.org/wiki/Sania_Mirza
+#
+yahoo
+Yahoo Cricket^https://cricket.yahoo.com/
+NBA on Yahoo^sports.yahoo.com/nba/
+Yahoo Sports^sports.yahoo.com/
+#
+yuvraj
+Yuvraj Singh Facebook^https://www.facebook.com/yuvirajsinghofficial
+Yuvraj Singh Wikipedia^en.wikipedia.org/wiki/Yuvraj_Singh
+#
